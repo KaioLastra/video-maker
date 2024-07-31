@@ -1,11 +1,7 @@
 {
   "name": "video-maker",
   "version": "1.0.0",
-<<<<<<< Updated upstream
-  "description": "projeto video maker",
-=======
-  "description": "depois a gente faz direito isso aqui",
->>>>>>> Stashed changes
+  "description": "video-maker",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,11 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/KaioLastra/video-maker.git"
   },
-<<<<<<< Updated upstream
   "author": "kaio",
-=======
-  "author": "",
->>>>>>> Stashed changes
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KaioLastra/video-maker/issues"
